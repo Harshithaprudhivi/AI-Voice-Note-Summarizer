@@ -3,4 +3,9 @@ uvicorn
 openai
 streamlit
 python-multipart
-
+openai-whisper
+ffmpeg-python
+torch
+numpy
+requests
+setuptools
